@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf2Cc47304A4626F3C24e175cEf2a606609946d65",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x60c485d8f5a5a603ee6223ee50197c46ceab898c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "Nerdy Coder Clones",
+  "SYMBOL": "NCC",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 75000000000000000,
+  "DISPLAY_COST": 0.075,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
